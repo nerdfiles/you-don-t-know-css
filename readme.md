@@ -18,3 +18,10 @@ the following text.
 ## Notes
 
 1. https://threadreaderapp.com/thread/1487388267091800064.html
+2. for an example of a "utility-first" css framework's effect on specificity, 
+   see here[specificity]; notice how much css is simply unused if not removed 
+   using cssmin, etc. an analogy might be using an entire typeplate from a cdn 
+   hosted font when you only need one glyph or character: undisciplined 
+   wasteful practice
+
+[specificity]: https://two-scissors.surge.sh/static-analysis/css/index.html
