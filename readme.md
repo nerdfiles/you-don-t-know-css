@@ -14,3 +14,7 @@ the following text.
 3. The Framework Wars: The Browser Wars Lives On
 4. The CSS Trap (Mo' CSS, Mo' Problems)
 5. ...
+
+## Notes
+
+1. https://threadreaderapp.com/thread/1487388267091800064.html
