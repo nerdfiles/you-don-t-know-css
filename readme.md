@@ -12,5 +12,5 @@ the following text.
 1. Introduction
 2. Perils of Medium Specificity 
 3. The Framework Wars: The Browser Wars Lives On
-4. The CSS Trap
+4. The CSS Trap (Mo' CSS, Mo' Problems)
 5. ...
